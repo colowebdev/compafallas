@@ -1,0 +1,17 @@
+
+body{
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+}
+
+.calc{
+    width: 360px;
+    background: linear-gradient(180deg, #1c1c1e 0%, #121214 100%);
+    padding: 18px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.02);
+    margin: auto;
+    margin-top: 40px;
+    color: white;
+}
+
+
